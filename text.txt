@@ -1,0 +1,135 @@
+Here’s the content extracted from your HTML without the tags:
+
+---
+
+### **Page Content**
+
+**Landing Page**  
+- Title: Landing Page  
+
+---
+
+**Header Section**  
+- **Header Logo**: Header Logo  
+- **Header Links**:
+  - header link one  
+  - header link two  
+  - header link three  
+- **Hero Section**:
+  - Hero Main Title: This website is awesome  
+  - Hero Secondary Text: This website has some subtext that goes here under the main title. It's a smaller font and the color is lower contrast  
+  - Hero Button: Sign up  
+  - Placeholder Image: this is a placeholder for an image  
+
+---
+
+**Information Section**  
+- **Information Header**: Some random information  
+- **Information Cards**:
+  - this is some subtext under an illustration or image  
+  - this is some subtext under an illustration or image  
+  - this is some subtext under an illustration or image  
+  - this is some subtext under an illustration or image  
+
+---
+
+**Quote Section**  
+- Quote: This is an inspiring quote, or a testimonial from a customer. Maybe it's just filling up some space, or maybe people will actually read it. Who knows? All I know is that it looks nice  
+- Author: -Thor, God of Thunder  
+
+---
+
+**Bottom Section**  
+- **Call to Action**: Call to action! It's time!  
+  - Sign up for our product by checking that button right over there!  
+  - Button: Sign up  
+
+---
+
+**Footer**  
+- Copyright © The Odin Project 2021  
+
+---
+
+Let me know if you need any adjustments!
+
+* {
+    font-family: Roboto, system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    /* border:2px solid blue; */
+}
+
+.container {
+    display: flex;
+    flex:1;
+}
+
+header, footer {
+    background-color: #1f2937;
+    color: #F9FAF8;
+}
+
+button, .bottom {
+    background-color: #3882F6;
+    color: #F9FAF8;
+    border-style: none;
+}
+
+.information-header {
+    font-size: 36px;
+    color: #1f2937;
+    font-weight: 900;
+}
+
+.hero-main {
+    font-size: 48px;
+    color: #F9FAF8;
+    font-weight: 900;
+}
+
+.hero-secondary, .header-link {
+    font-size: 18px;
+    color: #e5e7ebad;
+}
+
+.header-logo {
+    font-size: 24px;
+    color: #F9FAF8;
+}
+
+.quote-section {
+    background-color: #E5E7EB;
+}
+
+.quote {
+    font-size: 36px;
+    font-style:italic;
+    font-weight: lighter;
+    color: #1f2937;
+}
+
+
+Here’s the extracted text in a structured format for better usability, without the surrounding HTML context:
+
+### **Landing Page Content**
+- **Header Logo**: "Header Logo"
+- **Header Links**: 
+  - "header link one"
+  - "header link two"
+  - "header link three"
+- **Hero Section**:
+  - **Main Title**: "This website is awesome"
+  - **Subtext**: "This website has some subtext that goes here under the main title. It's a smaller font and the color is lower contrast"
+  - **Button Text**: "Sign up"
+- **Information Section**:
+  - **Header**: "Some random information"
+  - **Cards Subtext** (repeated 4 times): "this is some subtext under an illustration or image"
+- **Quote Section**:
+  - **Quote**: "This is an inspiring quote, or a testimonial from a customer. Maybe it's just filling up some space, or maybe people will actually read it. who knows? All I know is that it looks nice"
+  - **Attribution**: "-Thor, God of Thunder"
+- **Bottom Section**:
+  - **Call to Action Title**: "Call to action! It's time!"
+  - **Call to Action Description**: "Sign up for our product by checking that button right over there!"
+  - **Button Text**: "Sign up"
+- **Footer**: "Copyright © The Odin Project 2021"
+
+This format is easy to use for populating text content dynamically or referencing for design purposes. Let me know if you'd like this refined further!
